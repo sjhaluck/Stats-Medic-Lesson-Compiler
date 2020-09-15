@@ -1,4 +1,4 @@
-# Stats-Medic-Lesson-Compiler
+# Stats Medic Lesson Compiler
 Program logs into a website and downloads and compiles PDF lessons into a single file to be used by students.
 
 ## Source: [Stats Medic](https://www.statsmedic.com/)
